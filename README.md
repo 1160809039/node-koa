@@ -1,6 +1,6 @@
 # 项目简介
-语言是node.js 用koa开发的博客后台api接口，数据库是mysql和mongodb。
-
+语言是node.js 用koa开发的博客后台api接口，数据库是mysql和mongodb。<br/>
+前端页面angualr写的,地址是 [https://github.com/1160809039/angular](https://github.com/1160809039/angular)
 <hr/>
 
 |author|shaozeming|
