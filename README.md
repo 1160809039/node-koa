@@ -16,8 +16,8 @@
 <hr/>
 
 ## 运行
-使用根目录下 myblogs.sql文件在数据库中执行
-修改 config/config.js中mongodb配置
-修改 utils/mysqlutils.js中mysql配置
-修改 utils/uploadutils.js中七牛云配置
-运行 npm run start
+使用根目录下 myblogs.sql文件在数据库中执行<br/>
+修改 config/config.js中mongodb配置<br/>
+修改 utils/mysqlutils.js中mysql配置<br/>
+修改 utils/uploadutils.js中七牛云配置<br/>
+运行 npm run start<br/>
